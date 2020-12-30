@@ -6,4 +6,4 @@ Sample python code demonstrating XML, JSON parsing and data export to CSV format
 
 ### The output produces csv export of the content stored under content directory, rules_export.csv 
 - Created and stored under /content directory
--- _name__, __keywords__, __skus__
+-- __name__, __keywords__, __skus__
