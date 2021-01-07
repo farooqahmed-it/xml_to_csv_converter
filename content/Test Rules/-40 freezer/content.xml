@@ -1,0 +1,34 @@
+<ContentItem type="BoostSKUs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://sampleschema.com/schema/content/2008">
+  <TemplateId>BoostSKUs</TemplateId>
+  <Name>-40 freezer</Name>
+  <Property name="sku1">
+    <String>DXF24040A</String>
+  </Property>
+  <Property name="sku2">
+    <String>ABC7240A</String>
+  </Property>
+  <Property name="sku3">
+    <String>88840240A</String>
+  </Property>
+  <Property name="sku4">
+    <String>JHG1350-10-A</String>
+  </Property>
+  <Property name="sku5">
+    <String>7993CA</String>
+  </Property>
+  <Property name="sku6">
+    <String>JHTSC1350A</String>
+  </Property>
+  <Property name="sku7">
+    <String>ACXBF40D</String>
+  </Property>
+  <Property name="sku8">
+    <String>XBF40D88</String>
+  </Property>
+  <Property name="sku9">
+    <String/>
+  </Property>
+  <Property name="sku10">
+    <String/>
+  </Property>
+</ContentItem>

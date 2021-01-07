@@ -1,0 +1,18 @@
+{
+    "startTime": "",
+    "workflowState": "ACTIVE",
+    "previewable": true,
+    "ecr:lastModified": "2017-07-20T22:22:38.602-04:00",
+    "priority": 30,
+    "triggers": [{
+        "matchmode": "MATCHEXACT",
+        "keyword": "-20 freezer",
+        "inherit": "TRUE",
+        "ecr:type": "trigger"
+    }],
+    "ecr:lastModifiedBy": "qauser",
+    "workflowNote": "",
+    "endTime": "",
+    "ecr:type": "content-item",
+    "userSegments": []
+}
